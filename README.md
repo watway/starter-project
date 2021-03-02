@@ -1,3 +1,7 @@
+# Deploy Routed React App to GitHub Pages
+
+This basic project was created following https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/amp/.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
